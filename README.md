@@ -1,2 +1,2 @@
 # LandingPage
-ini adalah percobaan pertama saya
+ini adalah percobaan menggunakan git
